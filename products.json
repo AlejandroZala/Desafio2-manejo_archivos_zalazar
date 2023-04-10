@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Crema nutritiva",
+		"description": "con malba",
+		"price": 1500,
+		"thumbnail": "Link imagen producto2",
+		"code": "c2",
+		"stock": 30,
+		"id": 2
+	},
+	{
+		"title": "Crema humectante",
+		"description": "con aloe Vera",
+		"price": 3000,
+		"thumbnail": "Link imagen producto3",
+		"code": "c3",
+		"stock": 40,
+		"id": 3
+	}
+]
