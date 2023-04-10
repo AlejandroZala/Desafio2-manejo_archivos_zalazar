@@ -105,16 +105,6 @@ class ProductManager {
 
 class Product {
     constructor(title, description, price, thumbnail, code, stock) {
-        // validates if the product is complete
-        if (!title ||
-            !description ||
-            !price ||
-            !thumbnail ||
-            !code ||
-            !stock
-        ) {
-            console.log('Incomplete product data');
-        }
 
         this.title = title;
         this.description = description;
